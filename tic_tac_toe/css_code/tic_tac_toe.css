@@ -1,0 +1,40 @@
+body
+{
+	background-image: url("tic_tac_toe_background.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+#header
+{
+	
+	color: #ffffff;	
+	font-family: cursive;
+	font-size: 100px;
+	margin-top: 300px;
+
+}
+
+#button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #000;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+#button:hover {background-color: #DCDCDC}
+
+#button:active {
+  background-color: #DCDCDC;
+  box-shadow: 0 5px #696969;
+  transform: translateY(4px);
+}
