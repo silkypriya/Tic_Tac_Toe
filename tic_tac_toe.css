@@ -1,18 +1,18 @@
 body
 {
-	background-image: url("tic_tac_toe_background.jpg");
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
+  background-image: url("tic_tac_toe_background.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 #header
 {
-	
-	color: #ffffff;	
-	font-family: cursive;
-	font-size: 100px;
-	margin-top: 300px;
+  
+  color: #ffffff; 
+  font-family: cursive;
+  font-size: 100px;
+  margin-top: 300px;
 
 }
 
